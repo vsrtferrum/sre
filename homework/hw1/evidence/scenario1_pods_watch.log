@@ -1,0 +1,16 @@
+NAME                       READY   STATUS    RESTARTS   AGE
+hw1-app-59bbcbcb66-gfbvg   1/1     Running   0          18s
+hw1-app-59bbcbcb66-gzvdt   1/1     Running   0          18s
+hw1-app-59bbcbcb66-gfbvg   1/1     Terminating   0          23s
+hw1-app-59bbcbcb66-hsgn7   0/1     Pending       0          0s
+hw1-app-59bbcbcb66-gfbvg   1/1     Terminating   0          23s
+hw1-app-59bbcbcb66-hsgn7   0/1     Pending       0          0s
+hw1-app-59bbcbcb66-hsgn7   0/1     ContainerCreating   0          0s
+hw1-app-59bbcbcb66-hsgn7   0/1     ContainerCreating   0          1s
+hw1-app-59bbcbcb66-gfbvg   0/1     Completed           0          24s
+hw1-app-59bbcbcb66-hsgn7   0/1     Running             0          1s
+hw1-app-59bbcbcb66-gfbvg   0/1     Completed           0          25s
+hw1-app-59bbcbcb66-gfbvg   0/1     Completed           0          25s
+hw1-app-59bbcbcb66-gfbvg   0/1     Completed           0          25s
+hw1-app-59bbcbcb66-hsgn7   1/1     Running             0          4s
+hw1-app-59bbcbcb66-hsgn7   1/1     Running             0          4s

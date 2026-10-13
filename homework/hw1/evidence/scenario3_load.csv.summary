@@ -1,0 +1,3 @@
+total=600 ok=596 errors=4
+error_types={"connection_refused": 1, "other": 3}
+versions={"v1": 127, "v2": 469}
